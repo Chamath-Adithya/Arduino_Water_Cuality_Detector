@@ -5,3 +5,5 @@
 - 📫 Feel free to reach out to me at [achamath1@gmail.com](mailto:achamath1@gmail.com) if you’d like to know more about my projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m always experimenting with new tech stacks and love automating everyday tasks with smart solutions!
+
+I use an ESP32 and DHT11 to capture humidity and temperature 🌡️, and a TDS V1 kit to measure EC and TDS values 💧. The firmware for this setup is developed using Arduino (C++) 🚀.
