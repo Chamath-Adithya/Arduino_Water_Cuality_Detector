@@ -1,0 +1,40 @@
+cff-version: "1.2.0"
+message: "If you use this software in a publication, please cite it using the metadata below."
+title: "Arduino_Water_Quality_Detector: Real-Time Water Quality Monitoring with Arduino"
+version: "v1.0.0"
+doi: "10.5281/zenodo.17609104"
+url: "https://github.com/Chamath-Adithya/Arduino_Water_Cuality_Detector"
+date-released: "2025-11-14"
+
+authors:
+  - given-names: "Senanayaka Appuhamilage Chamath Adithya Senanayaka"
+    family-names: "S.A.C.A.Senanayaka"
+    email: "achamath1@gmail.com"
+    affiliation: "Independent Researcher"
+
+abstract: >
+  Arduino_Water_Quality_Detector is an open-source project for real-time monitoring of water quality using Arduino.
+  It measures key parameters such as pH, turbidity, and temperature, and is suitable for field deployment,
+  educational experiments, and environmental research.
+
+keywords:
+  - "Arduino"
+  - "water quality"
+  - "pH sensor"
+  - "turbidity sensor"
+  - "temperature sensor"
+  - "IoT"
+  - "DIY environmental monitoring"
+
+license: "MIT"
+
+bibtex:
+  entry:
+    - "@software{senanayaka2025arduino_water_quality_detector,
+         title = {Arduino_Water_Quality_Detector: Real-Time Water Quality Monitoring with Arduino},
+         author = {S.A.C.A.Senanayaka},
+         year = {2025},
+         version = {v1.0.0},
+         doi = {10.5281/zenodo.17609104},
+         url = {https://github.com/Chamath-Adithya/Arduino_Water_Cuality_Detector}
+       }"
