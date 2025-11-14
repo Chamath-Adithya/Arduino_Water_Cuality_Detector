@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/859984922.svg)](https://doi.org/10.5281/zenodo.17609104)
+
 - 👋 Hi, I’m Chamath Adithya (@Chamath-Adithya)
 - 👀 I’m interested in IoT solutions, automation, software development, UI/UX design, PCB design, and web technologies.
 - 🌱 I’m currently learning advanced React and Next.js, as well as cloud integration for IoT projects.
